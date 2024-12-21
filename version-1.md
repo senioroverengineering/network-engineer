@@ -1,41 +1,3 @@
-
-# Table of Contents
-
-1.  [A Software Developer&rsquo;s Guide for learning Cyber Security Pathway](#org0e0d8ac):draft:
-    1.  [Approach](#org85d39c5)
-    2.  [Getting Started - Try Hack Me (& Top Down Networking)](#org3949d9e)
-    3.  [Employment + Certifications](#org14e5598)
-        1.  [CompTIA A+](#orgeb1311e)
-        2.  [Step 1.) CompTIA A+ / Net+ / Security+](#org2b52d61)
-        3.  [Step 2.) Cisco Certifications CCNA](#org67f7879)
-        4.  [Step 3.) Cisco Intermidiate and Advanced Certificates CCNP / CCIE](#orge3dd7a3)
-    4.  [Labs & Tools](#org3bffb9e)
-        1.  [Notes! Blog!](#org4eea76d)
-        2.  [Linux](#org88db85c)
-        3.  [Firewalls / Iptables](#org987875f)
-        4.  [nmap](#orgf8ca98b)
-        5.  [Wireshark:](#orgfbce5c6)
-        6.  [Tailscale / Wireguard - vpn (virtual private network) software](#org0b1d4b1)
-        7.  [Python](#org9ee0654)
-        8.  [Virtual Machines / Virtualization / Containers](#orga5cb23b)
-    5.  [Reading List](#orgcdc168e)
-        1.  [Top Down Networking](#orgb024981)
-        2.  [Network Programmability and Automation](#org5bf2601)
-        3.  [Network from scratch](#org48c8cfa)
-    6.  [Practicals](#org0e36b3c)
-        1.  [The labs from Top Down Networking](#org9ee0c01)
-        2.  [Setup two computers/laptop with linux for projects](#org2beb2a4)
-        3.  [Connect them via a switch and telnet between the two](#orgc8f1aad)
-        4.  [Write a simple client/server in python](#orgd3f9cde)
-        5.  [Setup a VPN with tailscale, then wireguard](#org28737aa)
-        6.  [Setup a network with eero, then ubiquity, then with a linux box.](#org8225b30)
-        7.  [Split network into vlans](#orge10844b)
-    7.  [Outro](#org5ce4068)
-
-
-
-<a id="org0e0d8ac"></a>
-
 # A Software Developer&rsquo;s Guide for learning Cyber Security Pathway     :draft:
 
 I&rsquo;ve written up a syllabus for a course that will build a strong foundation for a career as a network engineer and cybersecurity. It is probably a reasonable path to get started but certainly not complete or authorative.
@@ -64,7 +26,7 @@ With all that in mind, this course is split into three parts:
 
 ## Getting Started - Try Hack Me (& Top Down Networking)
 
-You have a year subscription to TryHackMe, an online course + exercises for network security without prior knowledge.
+You'll have a year subscription to TryHackMe, an online course + exercises for network security without prior knowledge.
 
 Work through the first course, Pre Security. It will cover the basics and the exercises don&rsquo;t require setup. Work through that and some of the other courses, you&rsquo;ll have built a good vocabulary and an orientation to the field.
 
